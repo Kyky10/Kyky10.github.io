@@ -1,2 +1,2 @@
 # Kyky10.github.io
-Hey its me your best friend!!
+A C# blazor web project hosted on github.
